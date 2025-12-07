@@ -1,0 +1,11 @@
+Magnet              Magnet                       3           4.39          13.17
+Postcard            Postcard                     2           1.50           3.00
+Magnet              Magnet                       4           3.97          15.88
+Magnet              Magnet                       3           4.98          14.94
+Magnet              Magnet                       3           3.49          10.47
+Keychain            Keychain                     4           2.99          11.96
+Postcard            Postcard                     5           2.87          14.35
+Magnet              Magnet                       3           4.98          14.94
+Keychain            Keychain                     4           2.95          11.80
+agnet               Magnet                       5           2.98          14.90
+Keychain            Keychain                     3           3.99          11.97
